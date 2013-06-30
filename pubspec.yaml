@@ -1,0 +1,9 @@
+name: merge
+version: 0.1.0
+homepage: https://github.com/JosephMoniz/dart-merge
+description: >
+  A Stream transformer for merging multiple streams into one w/ concurrency
+author: Joseph Moniz <joseph.moniz@gmail.com>
+dependencies:
+  composite_subscription: '>=0.1.0 <0.2.0'
+  flat_map:               '>=0.1.0 <0.2.0'
